@@ -68,4 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# MERN-33
+# MERN Colour Picker
+![image](https://github.com/Batchu-Vikram-Sri-Durganand/MERN_ColorPicker/assets/109595666/34fb0a53-84d5-4dbd-bfee-a449d3a796f1)
+
